@@ -1,0 +1,19 @@
+﻿body {
+    background-color: #b259ac;
+}
+
+p {
+    display: none;
+    color: #262626;
+    text-align: center;
+    font-family: "Modak", cursive;
+    font-size: 300%
+}
+
+#buttonContainer {
+    text-align: center;
+}
+
+button {
+    display: inline-block;
+}
